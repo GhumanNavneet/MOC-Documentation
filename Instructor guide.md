@@ -12,18 +12,27 @@ Once you access the cloudlabs admin center portal
 
 1. Under On Demand Labs, click on 3 dots and the select click on Manage License
 
+<img src="images/img1.png"/><br/>
+
 2. Click on Add License under Manage License
+
+<img src="images/img2.png"/><br/>
 
 3. Add the following details as per below:
 
 * Expiry Date: Expiration Date of the azure pass code
 * Licenses: Add the Azure Pass promo code one by one as show in image
 * License cost: Give any number
-
 Click on Submit
+
+<img src="images/img3.png"/><br/>
 
 Now user can registor for the lab and use the promo code to perform the lab
 
 ### Managing Users
+<img src="images/img4.png"/><br/>
+
 ### Managing VM and Usage
+<img src="images/img5.png"/><br/>
+
 ### contact support
