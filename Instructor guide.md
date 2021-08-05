@@ -27,12 +27,16 @@ Click on Submit
 
 <img src="images/img3.png"/><br/>
 
+4. From Manage License you can check the status of licenses.
+
+<img src="images/img4.png"/><br/>
+
 Now user can registor for the lab and use the promo code to perform the lab
 
 ### Managing Users
-<img src="images/img4.png"/><br/>
+<img src="images/img5.png"/><br/>
 
 ### Managing VM and Usage
-<img src="images/img5.png"/><br/>
+<img src="images/img6.png"/><br/>
 
 ### contact support
